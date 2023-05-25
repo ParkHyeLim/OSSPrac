@@ -1,0 +1,6 @@
+version : "3.0"
+
+services:
+  python-app: main.py
+  image : jenkins_week12:latest
+  build : .

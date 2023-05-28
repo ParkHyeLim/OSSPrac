@@ -1,6 +1,6 @@
 version : "3.0"
 
 services:
-  python-app: teamHW6
+  python-app: 
     image : parkhyerim/jenkins_week12
     build : .
